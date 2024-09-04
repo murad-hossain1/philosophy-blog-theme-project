@@ -1410,6 +1410,14 @@ td{
     margin-top: 20px;
 }
 
+.custom-select{
+    color: var(--link-color);
+    font-size: 1rem;
+    border: none;
+    padding: 25px 0 10px 0;
+    border-bottom: 1px solid gray;
+}
+
 .textarea{
     width: 580px;
     height: 200px;
