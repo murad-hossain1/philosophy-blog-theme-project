@@ -19,21 +19,11 @@ html{
     --link-color: rgb(0,84,165);
 }
 
-.animated{
-    transform: translateY(200px);
-    transition-behavior: normal;
-    transition-delay: 0s;
-    transition-duration: 0.3s;
-    transition-property: all;
-    transition-timing-function: ease-in-out;
-}
-
-
 /* reset and common code ends here  */
 
 /* header section starts from below  */
 header{
-    background-image: url(images/hero-bg.jpg);
+    background-image: url(../philosophy-blog-theme-project/images/hero-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -172,7 +162,7 @@ nav a:hover{
 
     /* header content starts below  */
 .music{
-    background-image: url(../images/featured-guitarman.jpg);
+    background-image: url(../philosophy-blog-theme-project/images/featured-guitarman.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -236,7 +226,7 @@ nav a:hover{
 }
 
 .management{
-    background-image: url(images/featured-watch.jpg);
+    background-image: url(../philosophy-blog-theme-project/images/featured-watch.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -289,7 +279,7 @@ nav a:hover{
 }
 
 .lifestyle{
-    background-image: url(images/featured-beetle.jpg);
+    background-image: url(../philosophy-blog-theme-project/images/featured-beetle.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -647,7 +637,7 @@ footer{
 }
 
 .subscribers__email{
-    background-image: url(../images/envelope-solid.svg);
+    background-image: url(../philosophy-blog-theme-project/images/envelope-solid.svg);
     background-color: rgb(39, 37, 37);
     background-size: 2.5rem;
     background-repeat: no-repeat;
