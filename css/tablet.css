@@ -24,6 +24,14 @@ nav{
     padding: 25px;
 }
 
+.categories-content{
+    left: 0;
+}
+
+.blog-content{
+    left: 0;
+}
+
 .lifestyle{
     display: none;
 }
